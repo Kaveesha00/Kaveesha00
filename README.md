@@ -1,5 +1,5 @@
 
-![Learn-coding-online](https://github.com/Kaveesha00/Kaveesha00/assets/153258780/e123b0ba-cf30-4855-9095-5f0856bdfbef)
+![featured_code](https://github.com/Kaveesha00/Kaveesha00/assets/153258780/b3bef4a9-3a4d-443e-9836-686fa97aea59)
 
 <h1 align="center">Hi 👋, I'm Kaveesha Maharambage</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
