@@ -1,5 +1,6 @@
 
-![th](https://github.com/Kaveesha00/Kaveesha00/assets/153258780/7e5e18c0-0142-474f-a960-36d260331236)
+![featured_code](https://github.com/Kaveesha00/Kaveesha00/assets/153258780/4cb98de7-1c4d-47f9-82a2-aa567d52db62)
+
 
 
 <h1 align="center">Hi 👋, I'm Kaveesha Maharambage</h1>
