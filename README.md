@@ -1,7 +1,6 @@
 
 ![featured_code](https://github.com/Kaveesha00/Kaveesha00/assets/153258780/4cb98de7-1c4d-47f9-82a2-aa567d52db62)
 
-
 <h1 align="center">Hi 👋, I'm Kaveesha Maharambage</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
@@ -16,6 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kaveesha maharambage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaveesha maharambage" height="30" width="40" /></a>
+<a href="https://fb.com/kaveesha maharambage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveesha maharambage" height="30" width="40" /></a>
 <a href="https://instagram.com/kaveesha_maharambage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaveesha_maharambage" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shadow_2229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shadow_2229" height="30" width="40" /></a>
 </p>
