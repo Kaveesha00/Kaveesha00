@@ -26,7 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaveesha00&show_icons=true&locale=en&layout=compact" alt="kaveesha00" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaveesha00&show_icons=true&locale=en" alt="kaveesha00" /></p>
-)https://images.search.yahoo.com/images/view;_ylt=Awr.3EevtnJlIHsU7lmJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzIzY2EwZGViNjJhOTc4ZWYyZWUzOTExMjFkOGUwYmE3BGdwb3MDMzQEaXQDYmluZw--?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Danimatine%2Bcoding%2Bimage%2Bgirl%26ei%3DUTF-8%26type%3DE210US91215G0%26fr%3Dmcafee%26fr2%3Dp%253As%252Cv%253Ai%252Cm%253Asb-top%26tab%3Dorganic%26ri%3D34&w=750&h=500&imgurl=www.orienta.univpm.it%2Fwp-content%2Fuploads%2F2021%2F04%2Fgirls-coding-2020.png&rurl=https%3A%2F%2Fwww.orienta.univpm.it%2Fcoding-girls-donne-che-programmano-il-futuro%2F&size=342.0KB&p=animatine+coding+image+girl&oid=23ca0deb62a978ef2ee391121d8e0ba7&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&fr=mcafee&tt=Guarda+il+video+di+Coding+Girls+-+Donne+che+programmano+il+Futuro+-+UnivpmOrienta&b=0&ni=140&no=34&ts=&tab=organic&sigr=dPId6X2WgbOR&sigb=A86HhklabTih&sigi=BI.dRciy9qOu&sigt=baUhtLByODCE&.crumb=82MihxNB3Rk&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&type=E210US91215G0
+
 <h1 align="center">Hi 👋, I'm Kaveesha Maharambage</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
