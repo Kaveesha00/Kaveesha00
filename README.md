@@ -1,7 +1,6 @@
 
 ![featured_code](https://github.com/Kaveesha00/Kaveesha00/assets/153258780/cafe13cd-f944-471b-9000-29d6e5b7f14d)
 
-
 <h1 align="center">Hi 👋, I'm Kaveesha Maharambage</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
@@ -16,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kaveesha-maharambage-1810a7281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaveesha-maharambage-1810a7281" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/kavee.nethmi.39?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kavee.nethmi.39?mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://fb.com/kaveesha maharambage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveesha maharambage" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/kaveesha_maharambage?igshid=nzzlodbkywe4ng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/kaveesha_maharambage?igshid=nzzlodbkywe4ng==" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/@shadow_2229?si=pyxls-8detuaotfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@shadow_2229?si=pyxls-8detuaotfi" height="30" width="40" /></a>
 </p>
@@ -27,5 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaveesha00&show_icons=true&locale=en&layout=compact" alt="kaveesha00" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaveesha00&show_icons=true&locale=en" alt="kaveesha00" /></p>
-
 
