@@ -2,6 +2,14 @@
 ![featured_code](https://github.com/Kaveesha00/Kaveesha00/assets/153258780/cafe13cd-f944-471b-9000-29d6e5b7f14d)
 
 <h1 align="center">Hi 👋, I'm Kaveesha Maharambage</h1>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaveesha00&label=Profile%20views&color=0e75b6&style=flat" alt="kaveesha00" /> </p>
