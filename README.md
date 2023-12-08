@@ -6,6 +6,8 @@
 <h1 align="center">Hi 👋, I'm Kaveesha Maharambage</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
+![pexels-cottonbro-studio-5473957](https://github.com/Kaveesha00/Kaveesha00/assets/153258780/3b4be55a-00de-4e28-95e7-e50ab5f1a1df)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaveesha00&label=Profile%20views&color=0e75b6&style=flat" alt="kaveesha00" /> </p>
 
