@@ -1,5 +1,6 @@
 
-![featured_code](https://github.com/Kaveesha00/Kaveesha00/assets/153258780/b3bef4a9-3a4d-443e-9836-686fa97aea59)
+![th](https://github.com/Kaveesha00/Kaveesha00/assets/153258780/7e5e18c0-0142-474f-a960-36d260331236)
+
 
 <h1 align="center">Hi 👋, I'm Kaveesha Maharambage</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
