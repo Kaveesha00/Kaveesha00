@@ -1,4 +1,4 @@
-https://www.orienta.univpm.it/wp-content/uploads/2021/04/girls-coding-2020.png
+
 <h1 align="center">Hi 👋, I'm Kaveesha Maharambage</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align ="right" alt="Coding" width="400" src="https://images.search.yahoo.com/images/view;_ylt=Awr.0uVxt3Jlax0U1nqjzbkF;_ylu=c2VjA2ZwLXRodW1icwRzbGsDaW1nBG9pZANmMTY3ZmU1YzAxNGFiYTE0OTM5MmUxMTllMDIzMTdkNQRncG9zAzM3BGl0A2Jpbmc-?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Danimatine%2Bcoding%2Bimage%2Bgirl%26ei%3DUTF-8%26type%3DE210US91215G0%26fr%3Dmcafee%26fr2%3Dp%253As%252Cv%253Ai%252Cm%253Asb-top%26tab%3Dorganic%26ri%3D20&w=800&h=600&imgurl=cdn.dribbble.com%2Fusers%2F1857592%2Fscreenshots%2F3848396%2Fcharacter-typing.gif&rurl=https%3A%2F%2Fgithub.com%2Fsur16-cse&size=572.4KB&p=animatine+coding+image+girl&oid=f167fe5c014aba149392e119e02317d5&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&fr=mcafee&tt=sur16-cse+%28Surbhi+Kumari%29+%C2%B7+GitHub&b=0&ni=140&no=37&ts=&tab=organic&sigr=n9K3t1nM.BiU&sigb=Zgv9JB6z46V6&sigi=cCjhEbmzMYoP&sigt=64kUeoeASFVC&.crumb=82MihxNB3Rk&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&type=E210US91215G0">
